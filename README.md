@@ -6,7 +6,11 @@
 @ [ChungKing](https://github.com/HuangCongQing/ranking-list)，若fork或star请注明来源
 
 
+### ranks
 
+* 七麦数据：App实时下载榜单https://www.qimai.cn
+
+* IOS榜单实时排名：https://www.qimai.cn/rank
 
 ### License
 
