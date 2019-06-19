@@ -12,6 +12,13 @@
 
 * IOS榜单实时排名：https://www.qimai.cn/rank
 
+
+### All aspects
+
+*  [ Fortune 500 Companies 2019: Who Made the List](http://fortune.com/fortune500/list/)
+[世界500强-财富中国](http://www.fortunechina.com/fortune500/)
+[2019年《财富》美国500强排行榜](http://www.fortunechina.com/fortune500/c/2019-05/16/content_332875.htm)
+
 ### License
 
 Copyright (c) [ChungKing](https://github.com/HuangCongQing/ranking-list). All rights reserved.
