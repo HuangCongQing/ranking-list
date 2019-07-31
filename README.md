@@ -21,9 +21,14 @@
 
 * 编程语言排名
  * IEEE Spectrum :https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2018
- * TIOBE:https://www.tiobe.com/tiobe-index/
- * PYPL:http://pypl.github.io/PYPL.html
+ * TIOBE(每月更新一次):https://www.tiobe.com/tiobe-index/
+ * PYPL(Google上搜索语言教程的频率):http://pypl.github.io/PYPL.html
 
+>前端Web开发 - JavaScript
+后端Web开发 - JavaScript，Python，Java，PHP，Ruby，C＃
+桌面应用程序 - Java，C ++，Python
+移动开发 - Swift，Java，C＃
+游戏开发 - C ++，C＃
 
 ### All aspects
 
