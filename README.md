@@ -16,6 +16,8 @@
   * Top 500 sites https://www.alexa.com/topsites
   * http://alexa.chinaz.com 中国的网站
   * http://alexa.com 外国的网站
+  
+  * QS全球大学排名：https://www.topuniversities.com/qs-world-university-rankings
 
 ### All aspects
 
