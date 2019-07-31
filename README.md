@@ -19,6 +19,12 @@
   
   * QS全球大学排名：https://www.topuniversities.com/qs-world-university-rankings
 
+* 编程语言排名
+ * IEEE Spectrum :https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2018
+ * TIOBE:https://www.tiobe.com/tiobe-index/
+ * PYPL:http://pypl.github.io/PYPL.html
+
+
 ### All aspects
 
 * [questmobile行业研究报告](https://www.questmobile.com.cn/research/report-new)
