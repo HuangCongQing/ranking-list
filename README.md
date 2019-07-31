@@ -12,6 +12,9 @@
 
 * IOS榜单实时排名：https://www.qimai.cn/rank
 
+* 世界网站排名
+  * http://alexa.chinaz.com 中国的网站
+  * http://alexa.com 外国的网站
 
 ### All aspects
 
