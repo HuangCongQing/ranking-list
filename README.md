@@ -13,6 +13,7 @@
 * IOS榜单实时排名：https://www.qimai.cn/rank
 
 * 世界网站排名
+  * Top 500 sites https://www.alexa.com/topsites
   * http://alexa.chinaz.com 中国的网站
   * http://alexa.com 外国的网站
 
