@@ -16,8 +16,16 @@
   * Top 500 sites https://www.alexa.com/topsites
   * http://alexa.chinaz.com 中国的网站
   * http://alexa.com 外国的网站
-  
-  * QS全球大学排名：https://www.topuniversities.com/qs-world-university-rankings
+  ### 大学排名
+  一、全球有四大排行榜算是权威了，他们分别是：
+  1、英国泰晤士高等教育世界大学排名。前三项指标是教学、科研、论文引用，各占30%权重共计90%。
+  2、英国QS全球大学排名：https://www.topuniversities.com/qs-world-university-rankings。前三位的指标，学术、引用、师生比分别是40%，20%，20%共计80%
+  3、中国上海软科世界大学学术排名，由上海交大发布，前三名由教师质量、科研成果、教学质量，分别是40%、40%、10%共计90%
+  4、“美国新闻”世界大学排名，前三项由教学成果、教学资源、专家意见分别占35%、20%、20%共计75%。
+作者：Soniman
+链接：https://www.zhihu.com/question/376649868/answer/1055440793
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 * 编程语言排名
  * IEEE Spectrum :https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2018
