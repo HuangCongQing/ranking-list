@@ -5,6 +5,8 @@
 
 @ [ChungKing](https://github.com/HuangCongQing/ranking-list)，若fork或star请注明来源
 
+* 艾媒数据中心：https://data.iimedia.cn/
+
 
 ### ranks
 
